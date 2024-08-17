@@ -4,7 +4,7 @@
 
 ### About me @AlicyaL
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;5+years+of+programming+experience" alt="Typing SVG" /></a>
 
 - 🎇 Before embarking on my Github journey, I had been coding for a while especially on software engineering, but soon after my interests peaked on the fascinating world of Data Science.
 - 🔭 I am currently working on Python, JavaScript and R programming open source projects.
