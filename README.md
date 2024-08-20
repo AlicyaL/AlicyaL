@@ -1,5 +1,5 @@
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/AlicyaL)
-[![GitHub Followers](https://img.shields.io/github/followers/CodeMaster7000?label=Followers&style=social)](https://github.com/AlicyaL)
+[![GitHub Followers](https://img.shields.io/github/followers/AlicyaL?label=Followers&style=social)](https://github.com/AlicyaL)
 ![GitHub Stars](https://img.shields.io/github/stars/AlicyaL?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
 ### About me @AlicyaL
